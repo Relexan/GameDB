@@ -1,5 +1,4 @@
 # GAME MATCHMAKING DATABASE PROJECT (MySQL)
-## Project Brief
 
 Game Matchmaking Database project focuses on the design and implementation of a relational database system for an online multiplayer game matchmaking platform.
 
