@@ -3,7 +3,9 @@
 
 Game Matchmaking Database project focuses on the design and implementation of a relational database system for an online multiplayer game matchmaking platform.
 
-The database is designed using MySQL and models the core game related entities such as players,matches,rankings,loadouts,weapons and player performance statistics.The main goal is to demonstrate correct relational database design,proper normalisation, integrity constraints and database level logic in a structured gaming environment.
+The Game Matchmaking Database is designed using MySQL and models the core game related entities such as players,matches,rankings,loadouts,weapons and player performance statistics.The main goal is to demonstrate correct relational database design,proper normalisation, integrity constraints and database level logic in a structured gaming environment.
+
+---
 
 # Database Scope (MySQL – Relational)
 
@@ -23,6 +25,8 @@ The MySQL database stores structured operational game data including:
 
 - The schema enforces referential integrity using foreign key constraints and cascading rules where appropriate.
 
+---
+
 # Project Goals
 
 The main objectives of this database project are to demonstrate:
@@ -40,6 +44,8 @@ The main objectives of this database project are to demonstrate:
 - Use of stored procedures and database-level logic
 
 - Data integrity and consistency enforcement
+
+---
 
 # What Is in This Repository?
 
